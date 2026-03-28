@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>Stores employee work pattern data used by the Burnout Prevention Agent to assess wellbeing risk.</description>
+    <label>Employee Activity</label>
+    <nameField>
+        <displayFormat>EA-{0000}</displayFormat>
+        <label>Activity ID</label>
+        <type>AutoNumber</type>
+    </nameField>
+    <pluralLabel>Employee Activities</pluralLabel>
+    <sharingModel>ReadWrite</sharingModel>
+</CustomObject>
