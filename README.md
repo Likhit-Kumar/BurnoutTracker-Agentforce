@@ -234,7 +234,7 @@ BurnoutTracker-Agentforce/
 
 ## Blog
 
-Read the full technical breakdown: [Agentforce Scripts: Hybrid Reasoning, Action Chaining, and What It Actually Looks Like in Practice](#) *(link to your Medium/Dev.to post)*
+Read the full technical breakdown: [Agentforce Scripts: Hybrid Reasoning, Action Chaining, and What It Actually Looks Like in Practice](#) *(https://medium.com/@likhitkumarvp/agentforce-scripts-hybrid-reasoning-action-chaining-and-what-it-actually-looks-like-in-practice-39fb193572d1)*
 
 ---
 
